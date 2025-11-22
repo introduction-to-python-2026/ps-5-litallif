@@ -1,5 +1,4 @@
 def split_before_uppercases(formula):
-    pass  # replace the pass with your code
     split_formula = []
     start = 0
     if not formula:
